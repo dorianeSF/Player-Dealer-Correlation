@@ -7,3 +7,6 @@
 
 #### [Findings](Findings):
 - This directory contains my investigation findings upon running the aforementioned scripts.
+
+#### [Notes](Notes):
+- This directory contains all of my notes taken throughout the the course of the project. 
