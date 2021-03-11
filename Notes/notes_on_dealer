@@ -1,14 +1,13 @@
-### Primary dealer working during losses:
-#### BILLY JONES
-1 Found using: 
-  1 Dealer_analysis_script_10 
-  1 Dealer_analysis_script_12
-  1 Dealer_analysis_script_15
-  1 roulette_column
-
-Number of times dealer worked during losses: 
-13
+Primary dealer working during losses:
+BILLY JONES
 Found using: 
-1) roulette_column
-2) wc -l
-3) Subtract 3 lines from the "wc -l" output to accommodate the 3 additional date separators 
+  1 Dealer_analysis_script_10 
+  2 Dealer_analysis_script_12
+  3 Dealer_analysis_script_15
+  4 roulette_column
+
+Number of times dealer worked during losses: 13
+Found using: 
+  1 roulette_column
+  2 wc -l
+  3 Subtract 3 lines from the "wc -l" output to accommodate the 3 additional date separators 
